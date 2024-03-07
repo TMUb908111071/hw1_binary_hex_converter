@@ -1,3 +1,4 @@
 # hw1_binary_hex_converter
-![image](C:\Users\USER\Desktop\基礎資料結構與演算法\HW1\1\程式碼.jpg)
-![image](C:\Users\USER\Desktop\基礎資料結構與演算法\HW1\1\執行.jpg)
+![image](https://github.com/TMUb908111071/hw1_binary_hex_converter/assets/161851654/e43eb03b-fc18-46e9-b72b-724e835635d4)
+![image](https://github.com/TMUb908111071/hw1_binary_hex_converter/assets/161851654/644853d6-1af1-4eaa-bf0a-856feeac04a4)
+ 
